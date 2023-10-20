@@ -1,0 +1,7 @@
+API\ResourceNotFoundException.class
+API\CategoriaRepository.class
+API\CategoriaController.class
+API\ICategoriaService.class
+API\CategoriaService.class
+API\PracticaApi5D1Application.class
+API\Categoria.class
